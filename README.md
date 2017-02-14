@@ -9,8 +9,8 @@ It can be used with any game that requires dice to be rolled and is also great f
 
 Features of the code:
 
-•	Vivid 3D Pictures
-•	Realistic Visuals and Audio
-•	Supporting 3 Dices at Most
-•	Supporting 3 different colors at Most
-•	Automatically Counting face values of Dice
+*	Vivid 3D Pictures 
+*	Realistic Visuals and Audio
+*	Supporting 3 Dices at Most
+*	Supporting 3 different colors at Most
+*	Automatically Counting face values of Dice
