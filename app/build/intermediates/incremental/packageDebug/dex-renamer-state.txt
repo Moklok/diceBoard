@@ -1,0 +1,7 @@
+#Tue Feb 14 12:05:55 CST 2017
+base.0=C\:\\Users\\3 or 4 Ducks\\AndroidStudioProjects\\diceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_860d9d1d38e0b26d80e63a6ba7130bab359cd4b2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\3 or 4 Ducks\\AndroidStudioProjects\\diceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c387a8948a72ff0109f9479e5d1c6ad0bec66031\\classes.dex
+base.1=C\:\\Users\\3 or 4 Ducks\\AndroidStudioProjects\\diceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c387a8948a72ff0109f9479e5d1c6ad0bec66031
+file.0=C\:\\Users\\3 or 4 Ducks\\AndroidStudioProjects\\diceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_860d9d1d38e0b26d80e63a6ba7130bab359cd4b2\\classes.dex

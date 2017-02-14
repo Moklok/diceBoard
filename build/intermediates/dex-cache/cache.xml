@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\3 or 4 Ducks\AndroidStudioProjects\diceBoard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4035ac29f3f44e853640870d4c2633f4057bb073">
+        <dex dex="C:\Users\3 or 4 Ducks\AndroidStudioProjects\diceBoard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c387a8948a72ff0109f9479e5d1c6ad0bec66031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\3 or 4 Ducks\AndroidStudioProjects\diceBoard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7cb78979e52d95e044ca77e699bddfe1b887d73">
+        <dex dex="C:\Users\3 or 4 Ducks\AndroidStudioProjects\diceBoard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_860d9d1d38e0b26d80e63a6ba7130bab359cd4b2\classes.dex" />
+    </item>
+
+</items>
